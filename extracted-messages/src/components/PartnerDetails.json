@@ -1,0 +1,26 @@
+[
+  {
+    "id": "edit",
+    "defaultMessage": "Edit"
+  },
+  {
+    "id": "global_partner_id",
+    "defaultMessage": "Global Partner ID"
+  },
+  {
+    "id": "partner_name",
+    "defaultMessage": "Partner Name"
+  },
+  {
+    "id": "party_level",
+    "defaultMessage": "Party Level"
+  },
+  {
+    "id": "partner_type",
+    "defaultMessage": "Partner Type"
+  },
+  {
+    "id": "partner_status",
+    "defaultMessage": "Status"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "app_title",
+    "defaultMessage": "Partner Management Database"
+  },
+  {
+    "id": "global_partner_id",
+    "defaultMessage": "Global Partner ID Default"
+  },
+  {
+    "id": "partner_name",
+    "defaultMessage": "Partner Name"
+  },
+  {
+    "id": "party_level",
+    "defaultMessage": "Party Level"
+  },
+  {
+    "id": "partner_type",
+    "defaultMessage": "Partner Type"
+  },
+  {
+    "id": "partner_status",
+    "defaultMessage": "Partner Status"
+  }
+]

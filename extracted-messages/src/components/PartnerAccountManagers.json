@@ -1,0 +1,14 @@
+[
+  {
+    "id": "account_managers",
+    "defaultMessage": "Account Managers"
+  },
+  {
+    "id": "name",
+    "defaultMessage": "NAME"
+  },
+  {
+    "id": "primary_account_manager",
+    "defaultMessage": "PRIMARY ACCOUNT MANAGER"
+  }
+]

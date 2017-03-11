@@ -1,0 +1,70 @@
+[
+  {
+    "id": "global_partner_id",
+    "defaultMessage": "Global partner ID"
+  },
+  {
+    "id": "partner_name_en",
+    "defaultMessage": "Partner Name (EN)"
+  },
+  {
+    "id": "partner_name_local",
+    "defaultMessage": "Partner Name (Local)"
+  },
+  {
+    "id": "party_level",
+    "defaultMessage": "Party Level"
+  },
+  {
+    "id": "first_party",
+    "defaultMessage": "1st Party:"
+  },
+  {
+    "id": "third_party",
+    "defaultMessage": "3rd Party:"
+  },
+  {
+    "id": "partner_type",
+    "defaultMessage": "Partner Type"
+  },
+  {
+    "id": "publisher",
+    "defaultMessage": "Publisher"
+  },
+  {
+    "id": "developer",
+    "defaultMessage": "Developer"
+  },
+  {
+    "id": "tandm",
+    "defaultMessage": "T&M"
+  },
+  {
+    "id": "video",
+    "defaultMessage": "Video"
+  },
+  {
+    "id": "academic",
+    "defaultMessage": "Academic"
+  },
+  {
+    "id": "regions",
+    "defaultMessage": "Region(s)"
+  },
+  {
+    "id": "europe",
+    "defaultMessage": "Europe"
+  },
+  {
+    "id": "americas",
+    "defaultMessage": "Americas"
+  },
+  {
+    "id": "japan",
+    "defaultMessage": "Japan"
+  },
+  {
+    "id": "asia",
+    "defaultMessage": "Asia"
+  }
+]

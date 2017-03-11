@@ -1,0 +1,18 @@
+[
+  {
+    "id": "addresses",
+    "defaultMessage": "Addresses"
+  },
+  {
+    "id": "address_type",
+    "defaultMessage": "Address Type"
+  },
+  {
+    "id": "address_line1",
+    "defaultMessage": "Address Line"
+  },
+  {
+    "id": "country",
+    "defaultMessage": "Country"
+  }
+]

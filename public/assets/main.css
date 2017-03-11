@@ -1,0 +1,194 @@
+/* Sony Styles */
+.btn-primary {
+    background-color: #0072ce !important;
+}
+
+.btn.primary.focus,.btn-primary:focus {
+    background-color: #0072ce !important;
+}
+
+.headerBackground {
+    background: -webkit-linear-gradient(top, #333333, #111111);
+    background: linear-gradient(to bottom, #333333, #111111); 
+}
+
+.headerSub {
+    height: 72px;
+    background: -webkit-linear-gradient(top, #333333, #111111);
+    background: linear-gradient(to bottom, #333333, #111111); 
+}
+
+.panel-heading {
+    background: url(/assets/bg_flow.png ) right bottom no-repeat;
+    color: white;
+    height:100px;
+    margin-top:32px;
+}
+
+.panel-title {
+    display: table-cell;
+    vertical-align: middle;
+    line-height: 60px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.panel-footer {
+    background: #003287;
+    background: -webkit-linear-gradient(left, #003287, #003287 70%, #0276c8);
+    background: -o-linear-gradient(left, #003287, #003287 70%, #0276c8);
+    background: linear-gradient(to right, #003287, #003287 70%, #0276c8);
+    color: #B6E3FD;
+}
+
+
+table {
+    width: 100%;
+}
+
+.header {
+    color: #999;
+    height: 48px;
+    vertical-align: middle;
+    background: url("/assets/bg_flow.png") right bottom no-repeat;
+}
+
+.headerText {
+    line-height: 48px;
+    text-align: right;
+}
+
+
+.headerItem {
+    margin-left: 12px;
+}
+
+
+.logo {
+    max-height: 40px;
+}
+
+/* Griddle overrides */
+.griddle-footer {
+    text-align: center;
+    background-color: white;
+}
+
+.griddle .footer-container {
+    background-color: white !important;
+    border: 1px solid white;
+}
+
+
+/* End Griddle overrides */
+
+.placeHolderComponent {
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    height:300px;
+    line-height:300px;
+    text-align: center;
+    font-size: 4em;
+    color: #666;
+    margin-top:32px;
+    box-shadow: 10px 10px 5px #ccc;
+    width:75%;
+}
+
+.center-block {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.input-group .icon-addon .form-control {
+    border-radius: 0;
+}
+
+.icon-addon {
+    position: relative;
+    color: #555;
+    display: block;
+}
+
+.icon-addon:after,
+.icon-addon:before {
+    display: table;
+    content: " ";
+}
+
+.icon-addon:after {
+    clear: both;
+}
+
+.icon-addon.addon-md .glyphicon,
+.icon-addon .glyphicon, 
+.icon-addon.addon-md .fa,
+.icon-addon .fa {
+    position: absolute;
+    z-index: 2;
+    left: 10px;
+    font-size: 14px;
+    width: 20px;
+    margin-left: -2.5px;
+    text-align: center;
+    padding: 10px 0;
+    top: 1px
+}
+
+.icon-addon.addon-lg .form-control {
+    line-height: 1.33;
+    height: 46px;
+    font-size: 18px;
+    padding: 10px 16px 10px 40px;
+}
+
+.icon-addon.addon-sm .form-control {
+    height: 30px;
+    padding: 5px 10px 5px 28px;
+    font-size: 12px;
+    line-height: 1.5;
+}
+
+.icon-addon.addon-lg .fa,
+.icon-addon.addon-lg .glyphicon {
+    font-size: 18px;
+    margin-left: 0;
+    left: 11px;
+    top: 4px;
+}
+
+.icon-addon.addon-md .form-control,
+.icon-addon .form-control {
+    padding-left: 30px;
+    float: left;
+    font-weight: normal;
+}
+
+.icon-addon.addon-sm .fa,
+.icon-addon.addon-sm .glyphicon {
+    margin-left: 0;
+    font-size: 12px;
+    left: 5px;
+    top: -1px
+}
+
+.icon-addon .form-control:focus + .glyphicon,
+.icon-addon:hover .glyphicon,
+.icon-addon .form-control:focus + .fa,
+.icon-addon:hover .fa {
+    color: #2580db;
+}
+
+.griddle-filter {
+    width:100%;
+}
+
+.form-control {
+    width: 50%;
+}
+
+.autofit { 
+    width: auto;
+}

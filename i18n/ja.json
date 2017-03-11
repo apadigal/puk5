@@ -1,0 +1,32 @@
+
+{
+  "app_title": "パートナー管理データベース",
+  "language": "言語",
+  "search_partner": "検索パートナー",
+  "create_partner": "パートナーの作成",
+  "global_partner_id": "グローバルパートナーID",
+  "partner_type": "パートナータイプ",
+  "partner_name": "パートナー名",
+  "partner_status": "パートナーのステータス",
+  "party_level": "パーティレベル",
+  
+  "account_manager": "アカウントマネージャー：",
+  "partner_name_en": "パートナー名（EN):",
+  "partner_name_local": "パートナー名（ローカル）:",
+  "registered_company_name": "登録された会社名:",
+  "display_name": "表示名:",
+  "status": "状態:",
+  "active": "アクティブ",
+  "inactive": "非アクティブ",
+  "partner_details": "パートナーの詳細",
+  "edit_partner": "パートナーの編集",
+  "edit": "編集",
+
+  "overview": "概要",
+  "account_managers": "アカウントマネージャー",
+  "addresses": "アドレス",
+  "contacts": "連絡先",
+
+  "name": "名",
+  "primary_account_manager": "プライマリアカウントマネージャー"
+}

@@ -1,0 +1,44 @@
+
+{
+  "language": "Language",
+  "search_partner": "Search Partner",
+  "create_partner": "Create Partner",
+  "global_partner_id": "Global Partner ID",
+  "partner_type": "Partner Type",
+  "partner_name": "Partner Name",
+  "partner_status": "Partner Status",
+  "party_level": "Party Level",
+ 
+  "account_manager": "Account Manager:",
+  "partner_name_en": "Partner Name (EN):",
+  "partner_name_local": "Partner Name (Local):",
+  "registered_company_name": "Registered Company Name:",
+  "display_name": "Display Name:",
+  "status": "Status:",
+  "active": "Active",
+  "inactive": "Inactive",
+  "partner_details": "Partner Details",
+  "edit_partner": "Edit Partner",
+  "edit": "Edit",
+
+  "overview": "Overview!",
+  "account_managers": "Account Managers",
+  "addresses": "Addresses",
+  "contacts": "Contacts",
+
+  "name": "NAME",
+  "primary_account_manager": "PRIMARY ACCOUNT MANAGER",
+  "first_party": "1st Party",
+  "third_party": "3rd Party",
+  "regions" : "Region(s)",
+  "publisher" : "Publisher",
+  "developer" : "Developer",
+  "tandm" : "T&M",
+  "video" : "Video",
+  "Academic" : "Academic",
+  "europe" : "Europe",
+  "americas" : "Americas",
+  "japan" : "Japan",
+  "asia" : "Asia"
+  
+}
